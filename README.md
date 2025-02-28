@@ -21,7 +21,3 @@
 - 🔜 Multi-Asset Support (Crypto, Forex, Stocks)
 - 🔜 Leaderboard & Referral Program
 - 🔜 Mobile Support
-
-## 💬 Contact
-- **Twitter**: [@Immutal0_](https://x.com/Immutal0_)
-- **Telegram**: [@Immutal0](https://t.me/Immutal0)
